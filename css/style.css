@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&family=Roboto:wght@300&display=swap');
+
+.bg-violet{
+	background-color: rgba(255, 255, 255, 0.8);
+}
+
+#botonera img{
+	width: 200px;
+}
